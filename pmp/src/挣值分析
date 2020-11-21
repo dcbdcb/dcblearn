@@ -1,0 +1,11 @@
+计划价值PV
+挣值EV
+实际成本AC
+成本偏差CV，CV=EV-AC
+进度偏差SV，SV=EV-PV
+进度绩效指数SPI，SPI=EV/PV
+    SPI>1，完成的工作量超过计划
+    SPI<1，完成的工作量未达到计划
+成本绩效指数CPI，CPI=EV/AC
+    CPI>1，成本结余
+    CPI<1，成本超支
